@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61260" started-at="2020-11-25T10:59:05Z" finished-at="2020-11-25T11:00:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61260" started-at="2020-11-25T10:59:05Z" finished-at="2020-11-25T11:00:06Z">
+      <class name="com.vhm.qa.testcases.UserAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="setUp" is-config="true" duration-ms="23879" started-at="2020-11-25T10:59:05Z" finished-at="2020-11-25T10:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="OpenEditProfile()[pri:1, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="OpenEditProfile" duration-ms="3555" started-at="2020-11-25T10:59:29Z" finished-at="2020-11-25T10:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenEditProfile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="tearDown" is-config="true" duration-ms="898" started-at="2020-11-25T10:59:32Z" finished-at="2020-11-25T10:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="setUp" is-config="true" duration-ms="20860" started-at="2020-11-25T10:59:33Z" finished-at="2020-11-25T10:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EditProfile()[pri:2, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="EditProfile" duration-ms="10742" started-at="2020-11-25T10:59:54Z" finished-at="2020-11-25T11:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vhm.qa.testcases.UserAccountTest@2b546384]" name="tearDown" is-config="true" duration-ms="1265" started-at="2020-11-25T11:00:05Z" finished-at="2020-11-25T11:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vhm.qa.testcases.UserAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
